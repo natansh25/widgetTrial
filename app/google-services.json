@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "180179766839",
+    "firebase_url": "https://capstone-fd977.firebaseio.com",
+    "project_id": "capstone-fd977",
+    "storage_bucket": "capstone-fd977.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180179766839:android:dd9b30c9eb0bff84",
+        "android_client_info": {
+          "package_name": "com.udacity.horatio.widgetexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180179766839-a2qe0mpasaugqk0i6g5qm62n0pvcl9bi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.udacity.horatio.widgetexample",
+            "certificate_hash": "f35d54ccff3c02132f9cc11674afb3ac9ac33929"
+          }
+        },
+        {
+          "client_id": "180179766839-vco1pmv6r7u8kgp96gonf91dgc3qveav.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "180179766839-vco1pmv6r7u8kgp96gonf91dgc3qveav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAlE-gUdhRhhDe_I4QkcmolaNMEGmY85Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180179766839-vco1pmv6r7u8kgp96gonf91dgc3qveav.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180179766839:android:092f61acf259eac5",
+        "android_client_info": {
+          "package_name": "lifescript.infinity1087.android.com.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180179766839-s4qkr9bdnd4ldt4c7ru6h5qmh7qij1qg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "lifescript.infinity1087.android.com.myapplication",
+            "certificate_hash": "f35d54ccff3c02132f9cc11674afb3ac9ac33929"
+          }
+        },
+        {
+          "client_id": "180179766839-vco1pmv6r7u8kgp96gonf91dgc3qveav.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "180179766839-vco1pmv6r7u8kgp96gonf91dgc3qveav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAlE-gUdhRhhDe_I4QkcmolaNMEGmY85Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180179766839-vco1pmv6r7u8kgp96gonf91dgc3qveav.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
